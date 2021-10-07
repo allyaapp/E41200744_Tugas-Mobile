@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Spinner</string>
+    // memasukkan string nama nama Negara
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Korea</item>
+        <item>Cina</item>
+        <item>Jepang</item>
+        <item>Kanada</item>
+        <item>Amerika</item>
+    </string-array>
+
+</resources>
